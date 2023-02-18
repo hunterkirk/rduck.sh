@@ -2,4 +2,4 @@
 
 A terminal script for talking to yourself.
 
-<img src"screenshot.png">
+![Screenshot](screenshot.png
