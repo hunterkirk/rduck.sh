@@ -1,12 +1,13 @@
 #!/bin/bash
 ##
 ## Usage: ./rduck.sh
+## End conversation : bye
 ## Author: William Kirk 
 ## Date: 02/18/2023
 ##
 clear # clearing the screen
 
-VERSION="0.3.7"
+VERSION="0.3.8"
 COUNTER=0
 
 # source ./responses # <-- if you want to externalize your list of responses
