@@ -16,4 +16,8 @@ View your answers in the session log `cat session.log | grep ':::>'`
 
 ## Log View
 
-![Logview](log.png)
+![Log View](log.png)
+
+## Answers View
+
+![Answers View](answers.png)
