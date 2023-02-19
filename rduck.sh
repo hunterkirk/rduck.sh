@@ -7,7 +7,7 @@
 ##
 clear # clearing the screen
 
-VERSION="0.3.8"
+VERSION="0.3.9"
 COUNTER=0
 
 # source ./responses # <-- if you want to externalize your list of responses
@@ -20,6 +20,12 @@ responses[4]="Could you tell me a bit more about that?"
 responses[5]="I'm not sure I understand. Can you tell me more?"
 responses[6]="How long do you think that would take?"
 responses[7]="Are you super sure about that?"
+responses[8]="Does what we are talking about help you achieve your goal?"
+responses[9]="Does what we are talking about have key influencers or stakeholders?"
+responses[10]="Did you think about milestones?"
+responses[11]="It's good to think about potential obstacles sometimes."
+responses[12]="If you have a foundation. You have a start."
+responses[13]="However much time you think you have. Take away 60% in planning."
 
 echo -e "\033[43m\033[30m===================================================\033[0m"
 echo -e "\033[43m\033[30m (o)< ### Rubber Duck Session Initialized ### >(o) \033[0m"
