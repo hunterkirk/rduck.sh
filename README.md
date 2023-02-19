@@ -10,6 +10,10 @@ Conversation log stored in the current folder as `session.log`
 
 View your answers in the session log `cat session.log | grep ':::>'`
 
+## Demo ##
+
+![Demo](demo.gif)
+
 ## Script View ##
 
 ![Screenshot](screenshot.png)
