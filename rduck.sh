@@ -12,7 +12,7 @@ COUNTER=0
 
 # source ./responses # <-- if you want to externalize your list of responses
 
-responses[0]="Quack Qauck! What's up?" # Always the first response.
+responses[0]="Quack Quack! What's up?" # Always the first response.
 responses[1]="Interesting, tell me more."
 responses[2]="Please, tell me more."
 responses[3]="Neat! Go on."
@@ -29,12 +29,12 @@ responses[13]="However much time you think you have. Take away 60% in planning."
 
 echo -e "\033[43m\033[30m===================================================\033[0m"
 echo -e "\033[43m\033[30m (o)< ### Rubber Duck Session Initialized ### >(o) \033[0m"
-echo -e "\033[43m\033[30m>{=}              Quack! Qauck!                {=}<\033[0m"
+echo -e "\033[43m\033[30m>{=}              Quack! Quack!                {=}<\033[0m"
 echo -e "\033[43m\033[30m===================================================\033[0m"
 
 echo -e "===================================================" >> session.log
 echo -e " (o)< ### Rubber Duck Session Initialized ### >(o) " >> session.log
-echo -e ">{=}              Quack! Qauck!                {=}<" >> session.log
+echo -e ">{=}              Quack! Qua/ck!                {=}<" >> session.log
 echo -e "===================================================" >> session.log
 
 while [[ $input != "bye" ]]; do
